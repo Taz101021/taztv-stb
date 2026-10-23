@@ -2,7 +2,7 @@
 
 An IPTV player for **Amazon Fire TV** for **Stalker / MAG portals** (portal URL + MAC address), designed for the
 Fire TV remote: a TV guide, Video Club with series and Continue Watching, search with an on-screen keyboard,
-favourites, parental PIN and more. No colour keys, number keys or phone needed.
+favourites and more. No colour keys, number keys or phone needed.
 
 > TazTv STB does not provide any channels or content. You need your own subscription from an IPTV provider that
 > uses a Stalker / MAG portal.
