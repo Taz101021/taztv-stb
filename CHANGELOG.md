@@ -1,5 +1,21 @@
 # Changelog
 
+## 1.0.1 — 2026-10-24
+
+- New **Settings → Check for updates**: downloads the newest version from GitHub and installs it over the old one
+  (your portal, favourites and settings stay). It also checks once a day and shows a note on Home when an update
+  is out (can be turned off). Only GitHub is contacted.
+- Subtitles on a movie with none: Quick Actions shows "None in this stream"; pressing it shows a short message that
+  clears after 3 seconds (it used to stay on screen with the info bar).
+- Quick Actions: the colour-key dots stay, without the "was" label.
+- Guide ☰: "Find in this category" is now **Search all live TV** (every channel; ▶❚❚ still searches the current category).
+- **Google TV and other remotes** (no ☰, ▶❚❚, ◀◀ ▶▶): detected automatically. In movies Select pauses, ◀ ▶ rewind / forward,
+  ▼ opens Quick Actions; in live TV ◀ ▶ open Quick Actions; in the guide Hold Select opens the actions bar (with −2 h / +2 h).
+  Fire TV remote keys are unchanged. Show categories: Hold Select shows / hides all.
+- Continue Watching: the detail button is now **Remove all from Continue Watching** (press Select twice);
+  Hold Select still removes one title.
+- New **Settings → Remote control**: shows the detected remote and lets you choose **Fire TV remote** or **Google / other remote** (any remote without those keys).
+
 ## 1.0.0 — 2026-10-23
 
 First public release of **TazTv STB**, an IPTV client for Amazon Fire TV for Stalker / MAG portals
@@ -12,7 +28,7 @@ portal URL, press **Random MAC** and give that MAC to your provider to register 
 ### Remote and navigation
 - Everything works with the Fire TV remote only: D-pad, Select, Hold Select, Back, Menu (☰), Play/Pause, Rewind, Fast-forward.
   No colour keys, number keys, phone or voice needed.
-- The MAG colour keys are replaced by a ☰ Quick Actions sheet (each item marked with the colour it replaces).
+- The MAG colour keys are replaced by a ☰ Quick Actions sheet.
 - Focus is always visible (amber ring); text sized for reading from the couch.
 - Exit from Home closes the app; Settings → Restart app gives a full fresh start.
 

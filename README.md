@@ -21,7 +21,14 @@ favourites, parental PIN and more. No colour keys, number keys or phone needed.
 3. Install, then open **TazTv STB** from Your Apps & Channels. To add it to the favourites row, highlight it,
    press ☰ and choose **Move to front**.
 
-Also works on Android TV / Google TV boxes (Android 7.1 or later).
+Also works on Android TV / Google TV boxes (Android 7.1 or later), including remotes without ☰, ▶❚❚ or ◀◀ ▶▶
+(see below).
+
+## Updating
+From 1.0.1 on: **Settings → Check for updates** downloads and installs the new version over the old one; your portal,
+favourites and settings stay. The first time, Fire TV asks you to allow TazTv to install apps: turn it on, press Back,
+then Install. TazTv also checks once a day and shows a note on Home when an update is out.
+On 1.0.0, install 1.0.1 once with the Downloader link above (no need to uninstall first).
 
 ## First-time setup
 TazTv STB opens on **Portal settings**:
@@ -40,6 +47,15 @@ TazTv STB opens on **Portal settings**:
 | ▶❚❚ | Search, resume, pause |
 | ◀◀ ▶▶ | Change page / day in lists; seek in movies |
 | Back | Close / go back |
+
+**Google TV and other remotes** without ☰, ▶❚❚ or ◀◀ ▶▶ are detected automatically (or choose in
+Settings → Remote control):
+
+| Where | Fire TV remote | Google / other remote |
+|---|---|---|
+| Movies | ▶❚❚ pause · ◀◀ ▶▶ seek · ☰ Quick Actions | Select pause · ◀ ▶ seek · ▼ Quick Actions |
+| Live TV | ▲▼ channel · ☰ Quick Actions | ▲▼ channel · ◀ ▶ Quick Actions |
+| Guide | ☰ actions · ▶❚❚ search · ◀◀ ▶▶ ±2 h | Hold Select: actions bar with search and ±2 h |
 
 Parental PIN: **0000** until you change it in Settings → Parental PIN.
 
