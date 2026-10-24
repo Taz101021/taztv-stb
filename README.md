@@ -61,3 +61,12 @@ Parental PIN: **0000** until you change it in Settings → Parental PIN.
 
 ## Changes
 See [CHANGELOG.md](CHANGELOG.md).
+
+## Disclaimer
+TazTv STB is a media player only. It does not include, host, sell or link to any channels, streams or other
+content, and it is not affiliated with any IPTV provider. You are solely responsible for the portals and
+content you use with it, and for making sure you have the right to view them. Use TazTv STB only with
+services and content you are legally entitled to access, in compliance with copyright and all other laws
+that apply where you live. The developer does not endorse piracy or copyright infringement and accepts no
+responsibility or liability for how the app is used. The software is provided "as is", without warranty of
+any kind.
