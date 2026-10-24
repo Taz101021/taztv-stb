@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.0.2 — 2026-10-24
+
+- Check for updates: the first time, the page lists the exact Fire TV steps to allow updates (Developer options →
+  Install unknown apps → TazTv STB → On) and installs by itself when you come back. Only needed once.
+- Check for updates shows each release-note item in full.
+- Check for updates always opens a fresh Fire TV Install screen (it could bring back the old "App installed." screen
+  from a previous update instead).
+
 ## 1.0.1 — 2026-10-24
 
 - New **Settings → Check for updates**: downloads the newest version from GitHub and installs it over the old one
