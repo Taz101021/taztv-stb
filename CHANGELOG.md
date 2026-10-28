@@ -1,5 +1,15 @@
 # Changelog
 
+## 1.0.3 — 2026-10-27
+
+- Video Club: a small heading above the posters shows when titles were added: Today, 1 day ago, 2 days ago,
+  This week, 2 weeks ago, 1 month ago, 1 year ago and so on (newest in amber). The detail panel shows the date too.
+- Video Club search: titles matching your search come first as before, and now the newest releases come first
+  within them.
+- Live TV search: channel results and guide results show as two separate lists at the same time. In the results,
+  ▶ or ▶▶ jumps to the other list and ◀◀ goes back; each list keeps its place.
+- Search keyboard: bigger keys and bigger, bolder letters, easier to read from the couch.
+
 ## 1.0.2 — 2026-10-24
 
 - Check for updates: the first time, the page lists the exact Fire TV steps to allow updates (Developer options →
