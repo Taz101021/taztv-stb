@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.4 — 2026-10-29
+
+- Continue Watching keeps a show after you finish an episode, until every episode of every season is watched.
+  Selecting the show opens its episode list with the next episode highlighted (it doesn't start playing).
+- Video Club search: titles get the full width of the row with the year at the right end; the highlighted
+  result shows its whole name on up to 2 lines.
+
 ## 1.0.3 — 2026-10-27
 
 - Video Club: a small heading above the posters shows when titles were added: Today, 1 day ago, 2 days ago,
