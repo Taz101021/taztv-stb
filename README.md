@@ -2,6 +2,7 @@
 
 An IPTV player for **Amazon Fire TV** for **Stalker / MAG portals** (portal URL + MAC address), designed for the
 Fire TV remote: a TV guide, Video Club with series and Continue Watching, search with an on-screen keyboard,
+offline voice search with the remote's mic button,
 favourites, parental PIN and more. No colour keys, number keys or phone needed.
 
 > TazTv STB does not provide any channels or content. You need your own subscription from an IPTV provider that
@@ -45,6 +46,7 @@ TazTv STB opens on **Portal settings**:
 | Hold Select | Add to favourites (guide), remove from Continue Watching (Video Club) |
 | ☰ Menu | Quick Actions: favourites, audio, subtitles, aspect ratio, sleep timer (replaces the MAG colour keys) |
 | ▶❚❚ | Search, resume, pause |
+| Hold 🎤 (in Search) | Voice search: speak a channel or title, let go. Recognised on the TV, nothing is sent anywhere. Off in Settings → Voice search |
 | ◀◀ ▶▶ | Change page / day in lists; seek in movies |
 | Back | Close / go back |
 

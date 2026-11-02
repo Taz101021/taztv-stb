@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.5 — 2026-11-01
+
+- **Voice search:** in Live TV or Video Club search, hold the mic button on the remote and speak. The words are
+  turned into text **on the TV** (nothing is sent to Amazon or anywhere else) and searched as if typed. Works best
+  with common words and channel names; rare names may be misheard. Fire TV asks once to allow recording audio.
+  **Settings → Voice search** turns it off. The app is bigger (about 62 MB) because the speech model is included.
+
 ## 1.0.4 — 2026-10-29
 
 - Continue Watching keeps a show after you finish an episode, until every episode of every season is watched.
